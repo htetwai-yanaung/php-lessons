@@ -13,6 +13,7 @@
 <body class="min-vh-100 d-flex flex-column">
     <?php
     include_once("assets/view/nav.php");
+    
     ?>
     <div class="container">
         <div class="row">
